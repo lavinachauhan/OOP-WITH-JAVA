@@ -15,6 +15,6 @@ class Student extends Person{
 
 public class code02 {
     public static void main(String[] args) {
-        Student s = new Student();
+        Student st = new Student();
     }
 }
